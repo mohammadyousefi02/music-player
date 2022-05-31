@@ -1,0 +1,6 @@
+.control-icons{
+    font-size: 80px;
+    color: green;
+    transform: translateX(8px);
+    cursor: pointer;
+}
